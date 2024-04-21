@@ -4,10 +4,11 @@ This is a simple QR code generator for Threema. It generates a QR code that cont
 
 
 ## Prerequisites
-install requirements file with 
-```bash
-pip install -r requirements.txt
-```
+- Python 3.12
+- install requirements file with 
+    ```bash
+      pip install -r requirements.txt
+    ```
 
 ## Usage
 put threema id in _ids and public key in _public_keys and run the script
